@@ -1,0 +1,12 @@
+.progres{
+    width: 45%;
+  
+}
+.prs{
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+}
+.progress{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}

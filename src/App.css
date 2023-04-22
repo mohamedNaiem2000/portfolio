@@ -1,0 +1,37 @@
+:root{
+  
+    --main-color:#ffbd39;
+    --main-transition:0.3s;
+   
+}
+body{
+    font-family: 'Cairo', sans-serif;
+    background-color: black !important;
+    color: white;
+}
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.container {
+    width: 85% !important;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 80px;
+  }

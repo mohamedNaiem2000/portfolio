@@ -1,0 +1,16 @@
+
+.big{
+    color: rgba(255, 255, 255, 0.1);
+}
+.psmall,.title{
+    color:#999999
+}
+.imgsrc{
+height: 559px;
+object-fit: cover;
+}
+
+.imgsrc img{
+  height: 100%;
+  
+}

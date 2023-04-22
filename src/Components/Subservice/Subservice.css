@@ -1,0 +1,33 @@
+.subservice{
+    width: 30% !important;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.subservice p{
+    position: relative;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.subservice p::after{
+position: absolute;
+width: 40px;
+height: 1px;
+background-color: #ffbd39;
+top:35px;
+content: "";
+margin:0 auto;
+left: 0px;
+right: 0;
+}
+.subservice:hover{
+    background-color: #ffbd39;
+    cursor: pointer;
+}
+.subservice:hover span{
+    color: white;
+}
+.subservice:hover p{
+color: black;
+}
+.subservice:hover p::after{
+    background-color: black;
+}
