@@ -3,7 +3,7 @@ import React from 'react';
 function Subtitle({head,smallhead ,pcontent}) {
     return (
         <>
-          <div className="resumetext relative text-center pb-60">
+          <div className="resumetext relative text-center ">
           <h1 className="big absolute text-8xl -z-10 font-extrabold top-4 left-32 ms-64">
             {head}
           </h1>

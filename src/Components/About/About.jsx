@@ -1,6 +1,6 @@
 import React from "react";
 import "../About/About.css";
-import background from "../../../public/images/Mohamed1.jpeg";
+import background from "/images/Mohamed1.jpeg";
 function About(props) {
   return (
     <>
@@ -10,7 +10,7 @@ function About(props) {
             className="imgsrc w-9/12 m-auto"
             // style={{ backgroundImage: `url(${background})` }}
           >
-            <img src="../../../public/images/Mohamed1.jpeg" />
+            <img src="/images/Mohamed1.jpeg" />
           </div>
         </div>
         <div className="abouttext relative text-left">

@@ -4,7 +4,7 @@ import Progress from "../Progressbar/Progress";
 
 function Skills(props) {
   return (
-    <div className="container pb-50">
+    <div className="container ">
       <Subtitle
         head={"My Skills"}
         smallhead={"Skills"}
