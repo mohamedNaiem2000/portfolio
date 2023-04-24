@@ -6,9 +6,7 @@ function About(props) {
     <>
       <div className="About mt-28 flex justify-center container text-center pb-8">
         <div className="aboutimg w-5/12">
-          <div
-            className="imgsrc w-9/12 m-auto"
-          >
+          <div className="imgsrc w-9/12 m-auto">
             <img src="/images/Mohamed1.jpeg" />
           </div>
         </div>

@@ -13,12 +13,12 @@ function Skills(props) {
         }
       />
       <div className="flex justify-evenly flex-wrap ">
-        <Progress course={"Html"} rate={"90%"}/>
-        <Progress course={"Html"} rate={"80%"}/>
-        <Progress course={"Html"} rate={"70%"}/>
-        <Progress course={"Html"} rate={"50%"}/>
-        <Progress course={"Html"} rate={"70%"}/>
-        <Progress course={"Html"} rate={"50%"}/>
+        <Progress course={"Html"} rate={"90%"} />
+        <Progress course={"Html"} rate={"80%"} />
+        <Progress course={"Html"} rate={"70%"} />
+        <Progress course={"Html"} rate={"50%"} />
+        <Progress course={"Html"} rate={"70%"} />
+        <Progress course={"Html"} rate={"50%"} />
       </div>
     </div>
   );

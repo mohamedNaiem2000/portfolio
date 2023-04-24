@@ -78,11 +78,10 @@ function Welcome(props) {
               <h1>
                 I'm a
                 <span className="text-yellow-600">
-                  {" "}
                   Web
                   <br />
                   Designer based
-                </span>{" "}
+                </span>
                 <br />
                 in Egypt
               </h1>
