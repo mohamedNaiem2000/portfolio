@@ -1,6 +1,6 @@
 import React from "react";
 import "../About/About.css";
-import background from "/images/Mohamed1.jpeg";
+
 function About(props) {
   return (
     <>
@@ -8,7 +8,6 @@ function About(props) {
         <div className="aboutimg w-5/12">
           <div
             className="imgsrc w-9/12 m-auto"
-            // style={{ backgroundImage: `url(${background})` }}
           >
             <img src="/images/Mohamed1.jpeg" />
           </div>
