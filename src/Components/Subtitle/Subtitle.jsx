@@ -4,7 +4,7 @@ function Subtitle({ head, smallhead, pcontent }) {
   return (
     <>
       <div className="resumetext relative text-center ">
-        <h1 className="big absolute text-8xl -z-10 font-extrabold top-4 left-32 ms-64">
+        <h1 className="big absolute text-8xl -z-10 font-extrabold top-4 left-24 ms-64">
           {head}
         </h1>
         <h1 className="small ms-14 font-bold text-6xl">{smallhead}</h1>

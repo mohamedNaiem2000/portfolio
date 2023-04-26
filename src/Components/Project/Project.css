@@ -1,0 +1,13 @@
+.minproject{
+    width: 30%;
+    height: 285px;
+    margin-top: 20px;
+}
+.maxproject{
+    width: 60%;
+    height: 285px;
+    margin-top: 20px;
+}
+.maxproject img, .minproject img{
+    height: 100%;
+}
