@@ -1,0 +1,9 @@
+.chilcount{
+    background-color: #191919;
+    width: 22%;
+    border-radius: 8px;
+    /* padding: 40px; */
+}
+.chilcount h1{
+    color: #ffbd39;
+}

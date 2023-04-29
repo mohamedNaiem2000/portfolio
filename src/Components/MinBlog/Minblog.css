@@ -1,0 +1,26 @@
+.parent{
+    width: 30%;
+}
+.parent .imgbl{
+    height: 350px;
+    width: 100%;
+}
+.parent .imgbl img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.parent .data{
+    color: #ffbd39;
+}
+.parent .text .head:hover{
+color:#ffbd39 ;
+cursor: pointer;
+}
+.parent .imgbl{
+    overflow: hidden;
+}
+.parent .imgbl img:hover{
+transform:scale(0.9) rotate(10deg);
+transition: 0.3s;
+}

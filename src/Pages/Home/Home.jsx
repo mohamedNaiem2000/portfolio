@@ -6,6 +6,10 @@ import Resume from '../../Components/Resume/Resume';
 import Servicess from '../../Components/Servicess/Servicess';
 import Skills from '../../Components/Skills/Skills';
 import Project from '../../Components/Project/Project';
+import Blog from '../../Components/Blog/Blog';
+import Counter from '../../Components/Counter/Counter';
+import Available from '../../Components/Available/Available';
+
 
 function Home(props) {
     return (
@@ -17,6 +21,9 @@ function Home(props) {
             <Servicess/>
             <Skills/>
             <Project/>
+            <Blog/>
+            <Counter/>
+            <Available/>
         </div>
     );
 }
